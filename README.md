@@ -1,2 +1,2 @@
-# windows-server-active-directory-lab
-Laboratorio de administración y hardening de Windows Server y Active Directory con políticas de seguridad, usuarios, grupos, GPO y auditoría.
+# windows-ad-lab
+Laboratorio de Windows Server y Active Directory: administración de usuarios y grupos, GPO, permisos, auditoría y hardening.
